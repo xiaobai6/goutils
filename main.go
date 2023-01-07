@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "goutils/datetimes"
+    "github.com/xiaobai6/goutils/datetimes"
 )
 
 func main() {
